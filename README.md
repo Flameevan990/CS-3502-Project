@@ -3,7 +3,7 @@ CS 3502 Project 1 Multi Threaded Banking System
 # Overview
 This Project contains 4 different Programs coded in C# via Visual Studio. The Scenario chosen was a Banking System where people are the threads depositing or withdrawing money. The Linux subsystem Ubuntu was used to run the code.
 # Instructions
-Although I have provided the entire project, to run the code using Ubuntu you only need the "Program.cs" files for the lines of code. After creating an Ubuntu account or logging in you need to run some commands to install .Net SDK 
+Although I have provided the entire project, to run the code using Ubuntu you only need the "Program.cs" files for the lines of code, the order of which goes Basic Thread Protection, Resource Protection, Deadlock Creation, Deadlock Resolution. After creating an Ubuntu account or logging in, you need to run some commands to install .Net SDK
 
 # Run the following commands to add the Microsoft package repository:
 
